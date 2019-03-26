@@ -15,7 +15,7 @@ namespace IoTDevice
         // az iot hub device-identity show-connection-string --hub-name {YourIoTHubName} --device-id MyDotnetDevice --output table
 
 
-        private readonly static string s_connectionString = "HostName=krishiothub.azure-devices.net;DeviceId=device-1;SharedAccessKey=tqfcoiEwOvgnCxOsbwkmMaT9ERl2VpymhnsTvJ3reJQ=";
+        private readonly static string s_connectionString = "";
 
         static void Simulate()
         {
