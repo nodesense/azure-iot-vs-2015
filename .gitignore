@@ -1,0 +1,7 @@
+packages
+build
+release
+debug
+*.obj
+*.dll
+*.log
